@@ -1,3 +1,7 @@
 #lenco {
     cursor: pointer;
+    transition: 5s;
+}
+#lenco:active {
+transform: translateY(-10px)
 }
